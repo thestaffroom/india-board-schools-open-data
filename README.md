@@ -144,7 +144,7 @@ Every pincode says where it came from:
 | pincode_source | Meaning | Listings |
 |---|---|--:|
 | board | From the board's own listing | 18,318 |
-| cbse_2018_dataset | From a 2018 copy of CBSE's school directory published on GitHub [repository link to be added] | 18,575 |
+| cbse_2018_dataset | From a 2018 copy of CBSE's school directory published on GitHub https://github.com/deedy/cbse_schools_data/tree/master | 18,575 |
 | india_post_directory | Looked up from the listing's address in India Post's All India Pincode Directory (government open data) | 49 |
 | same_school_other_board | Taken from the same school's listing with another board | 26 |
 | *(blank)* | No trustworthy source | 530 |
@@ -175,7 +175,7 @@ No personal data is included: no names of principals or heads, no phone numbers,
 - **International Baccalaureate:** IB World School finder (ibo.org).
 - **UDISE+:** Ministry of Education's school portal.
 - **India Post:** All India Pincode Directory (data.gov.in).
-- **CBSE directory copy (2018):** GitHub [repository link to be added].
+- **CBSE directory copy (2018):** https://github.com/deedy/cbse_schools_data/tree/master.
 
 Each board's own data remains subject to that board's terms of use.
 
