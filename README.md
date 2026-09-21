@@ -5,7 +5,8 @@ This dataset lists every school that India's four main school boards publish as 
 - **Snapshot date:** 21 September 2026. Board listings were collected between 25 August and 21 September 2026.
 - **Made by:** staffroom (thestaffroom.in), a workplace-transparency platform for India's teachers.
 - **Size:** 37,498 board listings, matched to 36,979 schools. 36,710 are in India and 269 are CBSE schools abroad.
-
+- **Disclaimer:** Claude by Anthropic was extensively used for most work. Please help fix issues if any.
+ 
 ## The headline numbers (schools in India)
 
 Each school is counted once.
