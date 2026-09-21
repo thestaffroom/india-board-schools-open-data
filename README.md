@@ -179,6 +179,10 @@ No personal data is included: no names of principals or heads, no phone numbers,
 
 Each board's own data remains subject to that board's terms of use.
 
+## Licence
+
+The matching, the match notes and `schools.csv` are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): you may reuse them for any purpose, including commercially, if you credit **staffroom (thestaffroom.in)**. Each board's own listing data remains subject to that board's terms.
+
 ## Found a mistake?
 
 Open an issue in this repository with the school, the board code and a link to the evidence.
