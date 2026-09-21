@@ -181,7 +181,9 @@ Each board's own data remains subject to that board's terms of use.
 
 ## Licence
 
-The matching, the match notes and `schools.csv` are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): you may reuse them for any purpose, including commercially, if you credit **staffroom (thestaffroom.in)**. Each board's own listing data remains subject to that board's terms.
+- **staffroom's work** (the matching, the match notes and `schools.csv`) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may reuse it for any purpose, including commercially, if you credit **staffroom (thestaffroom.in)**.
+- **Pincodes marked `cbse_2018_dataset`** in `cbse.csv` come from [deedy/cbse_schools_data](https://github.com/deedy/cbse_schools_data) by Debarghya Das, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). That column is shared under the same licence.
+- **Each board's own listing data** remains subject to that board's terms.
 
 ## Found a mistake?
 
